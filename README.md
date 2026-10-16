@@ -70,7 +70,8 @@ The R Markdown notebook generates clear, presentation-ready visual layouts.
 *To populate these on your GitHub page, export your R plots as images, upload them to an `/images` directory in this repository, and link them below:*
 
 1. **Top 10 Highest Revenue Leakage Combinations**  
-   ![Top Leakage Combinations](images/top_leakage_plot.png)
+   ![Top Leakage Combinations]<img width="1350" height="705" alt="image" src="https://github.com/user-attachments/assets/2705fe1d-cbfc-4290-a2a4-232749722a17" />
+
 2. **Total Revenue Leakage by Market Segment**  
    ![Leakage by Segment](images/segment_leakage_plot.png)
 3. **ANOVA Feature Importance Chart**  
